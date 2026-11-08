@@ -1,4 +1,4 @@
-name: Upload to S3
+name: custom action to upload files and folders to s3 bucket
 description: Upload a file to an AWS S3 bucket
 
 #REQUIRED FOR MARKETPLACE
